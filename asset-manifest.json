@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/happilyeverlife/static/js/main.935f5988.js",
+    "main.js": "/happilyeverlife/static/js/main.cb585bab.js",
     "index.html": "/happilyeverlife/index.html",
-    "main.935f5988.js.map": "/happilyeverlife/static/js/main.935f5988.js.map"
+    "main.cb585bab.js.map": "/happilyeverlife/static/js/main.cb585bab.js.map"
   },
   "entrypoints": [
-    "static/js/main.935f5988.js"
+    "static/js/main.cb585bab.js"
   ]
 }
