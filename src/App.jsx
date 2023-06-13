@@ -20,7 +20,7 @@ function App() {
         <Route exact path="/form1" component={Form1}/>
         <Route exact path="/anotherform" component={Anotherform}/>
         <Route exact path="/hooks" component={Hooks}/>
-        <Route component="Home"/>
+        <Route component={Home}/>
       </Switch>
     </>
     );
